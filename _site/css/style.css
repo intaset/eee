@@ -757,7 +757,7 @@ font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 font-size: 1.5em;
 margin: 0;
-color: #242C5B;
+color: #333366;
 }
 
 .body {
@@ -786,7 +786,7 @@ transition: all 0.8s linear;
 }
 
 .body-link:hover {
-color: #242C5B;
+color: #333366;
 }
 
 .mob-link {
@@ -876,7 +876,7 @@ th {
 	text-align: right;
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #242C5B;
+	color: #333366;
 	transition: all 0.8s ease;
 }
 
@@ -899,7 +899,7 @@ th {
 }
 
 .keynotes {
-	border-bottom: #242C5B 1px solid;
+	border-bottom: #333366 1px solid;
 	text-align: left;
 }
 
@@ -957,7 +957,7 @@ th {
 }
 
 .pdf:hover {
-	color: #242C5B;
+	color: #333366;
 }
 
 .pdf img {
@@ -969,7 +969,7 @@ th {
 }
 
 .keynote-info .top a {
-	color: #242C5B;
+	color: #333366;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -981,7 +981,7 @@ th {
 }
 
 .border {
-	border-bottom: #242C5B 1px solid;
+	border-bottom: #333366 1px solid;
 }
 
 .keynoteIndex {
@@ -1016,7 +1016,7 @@ h1 {
   padding: 0 1em 1em;
   font-size: 1em!important;
   margin: 0;
-  color: #242C5B;
+  color: #333366;
   letter-spacing: 4px;
 }
 
@@ -1041,14 +1041,14 @@ h1 {
 }
 
 .bg-link:hover {
-	background-color: #242C5B;
-	border: 2px solid #242C5B;
+	background-color: #333366;
+	border: 2px solid #333366;
 	color: #FFF;
 }
 
 .dot {
 	display: none;
-	color: #242C5B;
+	color: #333366;
 	font-size: 2em;
 	vertical-align: middle;
 	margin: 0;
@@ -1087,7 +1087,7 @@ h1 {
 	transition: all 0.8s ease;
 }
 .side-bar-menu a:hover {
-	background-color: #242C5B;
+	background-color: #333366;
 	color: #FFF;
 }
 
@@ -1113,7 +1113,7 @@ nav#slide-menu {
 	width: 100%;
 	max-width: 141px;
 	height: 100%;
-	  background-color: #242C5B;
+	  background-color: #333366;
 	overflow-x: hidden;
   z-index: 99999;
 
@@ -1224,7 +1224,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:before { 
-			color: #242C5B;
+			color: #333366;
 		}
 
 		.menu-active .menu-trigger:after { 
@@ -1232,7 +1232,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #242C5B;
+			color: #333366;
 			background-color: #FFF;
 			font-family: "icomoon";
 			font-style: normal;
@@ -1338,7 +1338,7 @@ border-radius: 0!important;
 -moz-border-radius: 0!important;
 -webkit-border-radius: 0!important;
 border-color: none!important;
-background-color: #242C5B!important;
+background-color: #333366!important;
 background-image: none!important;
 filter: none!important;
 }
@@ -1388,7 +1388,7 @@ display: none;
 
 /*UPCOMING DATES*/
 .date {
-	background-color: #242C5B;
+	background-color: #333366;
   padding: 0.5em;
   color: #FFF;
   font-family: 'Lato', sans-serif;
@@ -1401,7 +1401,7 @@ display: none;
 }
 
 .past-text {
-	color: #242C5B;
+	color: #333366;
 }
 
 .events {
@@ -1435,7 +1435,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #242C5B;
+	color: #333366;
 	border-bottom: 1px solid;
 }
 
@@ -1482,7 +1482,7 @@ textarea {
 }
 
 .copyright a:hover {
-	color: #242C5B;
+	color: #333366;
 	border-bottom: 1px solid;
 }
 
@@ -1509,7 +1509,7 @@ textarea {
 /* ---------------- ---------------------- */
 /* ACCOMMODATION */
 .ls-select-box:hover {
-	background-color: #242C5B;
+	background-color: #333366;
 	color: #FFF;
 }
 
@@ -1618,7 +1618,7 @@ input[type="button"], input[type="reset"], input[type="submit"] {
 }
 
 input[type="reset"]:hover, input[type="submit"]:hover {
-  background-color: #242C5B;
+  background-color: #333366;
 }
 
 .paypal table {
@@ -1647,7 +1647,7 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 }
 
 .bottom-border {
-	border-bottom: 1px solid #242C5B;
+	border-bottom: 1px solid #333366;
 	padding-top: 1em;
 }
 
@@ -1985,7 +1985,7 @@ footer {
 
 	.cbp-af-inner nav .dot {
   		font-size: 1em;
-  		color: #242C5B;
+  		color: #333366;
   		padding: 0 0.4em;
 	}
 
@@ -1995,7 +1995,7 @@ footer {
 	}
 
 	.cbp-af-header nav a:hover {
-	background-color: #242C5B;
+	background-color: #333366;
 	padding: 1em 0.1em;
 	color: #FFF!important;
 	}
